@@ -7,3 +7,5 @@
 - Fundamentals of the CSS BEM Model.
 - From soft and pleasant animations to complex gradients.
 - Perfectly placed media queries for satisfactory responsiveness covering almost devices.
+
+Thank you.
